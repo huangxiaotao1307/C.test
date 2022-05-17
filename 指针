@@ -1,0 +1,4 @@
+#include<stdio.h>
+//结构体：char int double....
+表示人-复炸对象
+复杂对象-结构体-我们创造的一种类型
